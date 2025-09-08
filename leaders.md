@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Kreshnik Rexha](mailto:kreshnik.rexha@owasp.org)
+* [Mario Kazazi](mailto:mario.kazazi@owasp.org)
