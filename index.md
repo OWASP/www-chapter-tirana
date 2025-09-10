@@ -5,7 +5,7 @@ title: OWASP Tirana
 tags: example-tag
 region: Europe
 country: Albania
-meetup-group:
+meetup-group: owasp-tirane-chapter
 
 ---
 
