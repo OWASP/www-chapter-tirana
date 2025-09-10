@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Tirana
-tags: example-tag
+tags: appsec-tag
 region: Europe
 country: Albania
 meetup-group: owasp-tirane-chapter
