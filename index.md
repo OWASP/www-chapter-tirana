@@ -47,30 +47,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Next Meeting/Event
 ---------------------
 
-<div id="next-event">Loading next event…</div>
-
-<script>
-(async () => {
-  // Meetup group RSS feed → convert to JSON via rss2json (public service)
-  const rssUrl = encodeURIComponent('https://www.meetup.com/owasp-tirane-chapter/events/rss/');
-  const api = `https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`;
-
-  try {
-    const res = await fetch(api);
-    if (!res.ok) throw new Error('Feed fetch failed');
-    const data = await res.json();
-
-    // Find first upcoming event item (rss2json returns items sorted newest first)
-    const item = (data.items && data.items[0]) || null;
-
-    if (!item) {
-
-
-
-
-## Next Meeting/Event
----------------------
-
 <div id="next-event-card" class="owasp-card">
   <div class="owasp-card__header">
     <span class="owasp-card__eyebrow">OWASP Tirana</span>
