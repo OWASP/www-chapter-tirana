@@ -9,20 +9,13 @@ meetup-group: owasp-tirane-chapter
 
 ---
 
-<div style='color:red;'>
-
+## Welcome
 Welcome to OWASP Tirana, the first chapter in Albania and Western Balkans.
 
 We started this because we believe in Security, believe that well designed software has security as an intrisic part of it. The Chapter was founded by
   <a href="https://www.linkedin.com/in/kreshnikrexha" target="_blank" rel="noopener noreferrer">Kreshnik Rexha</a>
   &amp;
   <a href="https://www.linkedin.com/in/mariokazazi" target="_blank" rel="noopener noreferrer">Mario Kazazi</a>.
-
-
-</div>
-
-## Welcome
-Include some information here about your chapter
 
 Chapter Supporters
 ----------------
