@@ -49,9 +49,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 {% include chapter_events.html group=page.meetup-group %}
 
-<p>
-  <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">
-    View all upcoming events on our Meetup page →
-  </a>
-</p>
+
+
 
