@@ -47,7 +47,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Next Meeting/Event
 ---------------------
 {% comment %}
-{% include chapter_events.html group=page.meetup-group %}
+
+[Join our next Meetup →](https://www.meetup.com/owasp-tirane-chapter/?eventOrigin=home_groups_you_organize)
+
 {% endcomment %}
 
 ``
