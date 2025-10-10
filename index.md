@@ -47,24 +47,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Next Meeting/Event
 ---------------------
 
-<div id="next-event-card" class="owasp-card">
-  <div class="owasp-card__header">
-    <span class="owasp-card__eyebrow">OWASP Tirana</span>
-    <h3 class="owasp-card__title">Loading next event…</h3>
-  </div>
-  <div class="owasp-card__meta">
-    <div class="owasp-card__row">
-      <strong>Date:</strong> <span id="next-event-date">—</span>
-    </div>
-    <div class="owasp-card__row">
-      <strong>Location:</strong> <span id="next-event-venue">—</span>
-    </div>
-  </div>
-  <div class="owasp-card__cta">
-    <a id="next-event-link" href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">
-      View event on Meetup
-    </a>
-  </div>
+{% include chapter_events.html group=page.meetup-group %}
+
+<p>
+  <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">
+    View all upcoming events on our Meetup page →
+  </a>
+</p>
+
 </div>
 
 <style>
