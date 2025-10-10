@@ -46,7 +46,27 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 ---------------------
-[View our next Meetup event →](https://www.meetup.com/owasp-tirane-chapter/events/)
+
+<div id="next-event">Loading next event...</div>
+
+<script>
+async function loadMeetupEvent() {
+  const groupUrl = "owasp-tirane-chapter";
+  const res = await fetch(`https://api.meetup.com/${groupUrl}/events?&sign=true&photo-host=public&page=1`);
+  const events = await res.json();
+  if (events && events.length > 0) {
+    const e = events[0];
+    const eventHTML = `
+      <p><strong><a href="${e.link}" target="_blank">${e.name}</a></strong></p>
+      <p>${new Date(e.local_date + "T" + e.local_time).toLocaleString()}</p>
+    `;
+    document.getElementById("next-event").innerHTML = eventHTML;
+  } else {
+    document.getElementById("next-event").innerHTML = "No upcoming events found.";
+  }
+}
+loadMeetupEvent();
+</script>
 
 {% comment %}
 
