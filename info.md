@@ -3,6 +3,6 @@
 
 ### Social Links
 * [Meetup](#)
-* OWASP Tirana – [YouTube](https://www.youtube.com/channel/UCWkfj_JlDaDbhHksWHQ_p9w)
+* [YouTube](https://www.youtube.com/channel/UCWkfj_JlDaDbhHksWHQ_p9w)
 
 
