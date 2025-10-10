@@ -47,26 +47,24 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Next Meeting/Event
 ---------------------
 
-<div id="next-event">Loading next event...</div>
+<div id="next-event">Loading next event…</div>
 
 <script>
-async function loadMeetupEvent() {
-  const groupUrl = "owasp-tirane-chapter";
-  const res = await fetch(`https://api.meetup.com/${groupUrl}/events?&sign=true&photo-host=public&page=1`);
-  const events = await res.json();
-  if (events && events.length > 0) {
-    const e = events[0];
-    const eventHTML = `
-      <p><strong><a href="${e.link}" target="_blank">${e.name}</a></strong></p>
-      <p>${new Date(e.local_date + "T" + e.local_time).toLocaleString()}</p>
-    `;
-    document.getElementById("next-event").innerHTML = eventHTML;
-  } else {
-    document.getElementById("next-event").innerHTML = "No upcoming events found.";
-  }
-}
-loadMeetupEvent();
-</script>
+(async () => {
+  // Meetup group RSS feed → convert to JSON via rss2json (public service)
+  const rssUrl = encodeURIComponent('https://www.meetup.com/owasp-tirane-chapter/events/rss/');
+  const api = `https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`;
+
+  try {
+    const res = await fetch(api);
+    if (!res.ok) throw new Error('Feed fetch failed');
+    const data = await res.json();
+
+    // Find first upcoming event item (rss2json returns items sorted newest first)
+    const item = (data.items && data.items[0]) || null;
+
+    if (!item) {
+
 
 {% comment %}
 
