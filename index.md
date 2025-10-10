@@ -24,7 +24,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-    <a href="https://www.squarevertex.ai"><img src="assets/images/VeraCode_logo.png" alt="Veracode"/></a>
+    <a href="https://www.squarevertex.ai"><img src="assets/images/sqvertexai-high-resolution-logo-2.png" alt="squarevertex"/></a>
 </td>
 <td>
     <a href="https://www.startupalbania.org"><img src="assets/images/ThoughtWorks-logo.png" alt="ThougthWorks"/></a>
