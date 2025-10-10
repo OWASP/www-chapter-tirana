@@ -51,7 +51,7 @@ Next Meeting/Event(s)
 [//]: # (Comment: When updating the next event info also update the next event tab)
 
 
-OWASP London Chapter meetings are posted on our MeetUp Page:
+OWASP Tirana Chapter meetings are posted on our MeetUp Page:
 
 Please visit <a href="https://www.meetup.com/owasp-tirane-chapter">https://www.meetup.com/owasp-tirane-chapter</a> OWASP Tirana MeetUp site for Tirana Chapter event information.  /events/
 
