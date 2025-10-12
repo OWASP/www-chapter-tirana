@@ -30,7 +30,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
     <a href="https://startupalbania.org"><img src="assets/images/ThoughtWorks-logo.png" alt="StartUp Albania"/></a>
 </td>
 <td>
-    <a href="https://www.kineton.al"><img src="assets/images/IEDigital-logo.png" alt="Kineton Albania"/></a>
+    <a href="https://www.kineton.al"><img src="assets/images/Kineton_Albania_logo_black.jpgg" alt="Kineton Albania"/></a>
 </td>
 </tr>
 
