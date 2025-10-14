@@ -15,15 +15,7 @@ The chapter was founded by
 <a href="https://www.linkedin.com/in/kreshnikrexha" target="_blank" rel="noopener">Kreshnik Rexha</a> &
 <a href="https://www.linkedin.com/in/mariokazazi" target="_blank" rel="noopener">Mario Kazazi</a>.
 
-## Next Meeting/Event
----------------------
-{% include chapter_events.html group=page.meetup-group %}
 
-<p>
-  <a href="https://www.meetup.com/owasp-tirane-chapter/events/310936465/?eventOrigin=group_events_list" target="_blank" rel="noopener">   
-    View all upcoming events on our Meetup page →
-  </a>
-</p>
 
 ## Chapter Supporters
 ----------------
@@ -51,6 +43,16 @@ The chapter was founded by
     </tr>
   </table>
 </div>
+
+## Next Meeting/Event
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
+<p>
+  <a href="https://www.meetup.com/owasp-tirane-chapter/events/310936465/?eventOrigin=group_events_list" target="_blank" rel="noopener">   
+    View all upcoming events on our Meetup page →
+  </a>
+</p>
 
 ## Stay Connected
 - Meetup: <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">Join upcoming events</a>  
