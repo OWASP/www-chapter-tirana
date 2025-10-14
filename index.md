@@ -20,7 +20,7 @@ The chapter was founded by
 {% include chapter_events.html group=page.meetup-group %}
 
 <p>
-  <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">
+  <a href="https://www.meetup.com/owasp-tirane-chapter/events/310936465/?eventOrigin=group_events_list" target="_blank" rel="noopener">   
     View all upcoming events on our Meetup page →
   </a>
 </p>
