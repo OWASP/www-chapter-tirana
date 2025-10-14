@@ -1,61 +1,68 @@
 ---
-
 layout: col-sidebar
 title: OWASP Tirana
 tags: appsec-tag
 region: Europe
 country: Albania
 meetup-group: owasp-tirane-chapter
-
 ---
 
 ## Welcome
-Welcome to OWASP Tirana, the first chapter in Albania and Western Balkans.
+Welcome to **OWASP Tirana** — the first OWASP chapter in Albania and the Western Balkans.
 
-We started this because we believe in Security, believe that well designed software has security as an intrisic part of it. The Chapter was founded by
-  <a href="https://www.linkedin.com/in/kreshnikrexha" target="_blank" rel="noopener noreferrer">Kreshnik Rexha</a>
-  &amp;
-  <a href="https://www.linkedin.com/in/mariokazazi" target="_blank" rel="noopener noreferrer">Mario Kazazi</a>.
+We started this chapter because we believe security is **intrinsic** to well-designed software.  
+The chapter was founded by
+<a href="https://www.linkedin.com/in/kreshnikrexha" target="_blank" rel="noopener">Kreshnik Rexha</a> &
+<a href="https://www.linkedin.com/in/mariokazazi" target="_blank" rel="noopener">Mario Kazazi</a>.
 
-Chapter Supporters
-----------------
-The following are the list of OWASP Corporate Members who have generously aligned themselves with the Tirana chapter, therefore contributing funds to our chapter:
-
-<table cellpadding="15" cellspacing="0">
-<tr>
-<td>
-    <a href="https://www.squarevertex.ai"><img src="assets/images/squarevertex.png" alt="squarevertex"/></a>
-</td>
-<td>
-    <a href="https://startupalbania.org"><img src="assets/images/SA.png" alt="StartUp Albania"/></a>
-</td>
-<td>
-    <a href="https://www.kineton.al"><img src="assets/images/kinenton.png" alt="Kineton Albania"/></a>
-</td>
-</tr>
-
-</table>
-
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-
-Next Meeting/Event(s)
+## Next Meeting/Event
 ---------------------
-
-[//]: # (Comment: When updating the next event info also update the next event tab)
-
-
-OWASP Tirana Chapter meetings are posted on our MeetUp Page:
-
-Please visit <a href="https://www.meetup.com/owasp-tirane-chapter">https://www.meetup.com/owasp-tirane-chapter</a> OWASP Tirana MeetUp site for Tirana Chapter event information.  /events/
-
 {% include chapter_events.html group=page.meetup-group %}
 
+<p>
+  <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">
+    View all upcoming events on our Meetup page →
+  </a>
+</p>
 
+## Chapter Supporters
+----------------
+<p>The organizations below support our local activities (e.g., venues, community collaboration). OWASP remains vendor-neutral.</p>
 
+<!-- White background, centered logos, no zebra striping -->
+<div style="background:#fff;border-radius:12px;padding:8px 12px;">
+  <table role="presentation" cellpadding="12" cellspacing="0" style="width:100%;background:#fff;border-collapse:separate;border-spacing:0;">
+    <tr style="background:#fff;">
+      <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
+        <a href="https://www.squarevertex.ai">
+          <img src="assets/images/squarevertex.png" alt="SquareVertex" style="max-height:72px;display:block;background:transparent;">
+        </a>
+      </td>
+      <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
+        <a href="https://startupalbania.org">
+          <img src="assets/images/SA.png" alt="StartUp Albania" style="max-height:72px;display:block;background:transparent;">
+        </a>
+      </td>
+      <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
+        <a href="https://www.kineton.al">
+          <img src="assets/images/kinenton.png" alt="Kineton Albania" style="max-height:72px;display:block;background:transparent;">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Stay Connected
+- Meetup: <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">Join upcoming events</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/kreshnikrexha" target="_blank" rel="noopener">Kreshnik Rexha</a> · <a href="https://www.linkedin.com/in/mariokazazi" target="_blank" rel="noopener">Mario Kazazi</a>
+- YouTube: <a href="https://www.youtube.com/@OWASPTirana" target="_blank" rel="noopener">Subscribe</a>  
+- Global OWASP Slack: <a href="https://owasp.slack.com/" target="_blank" rel="noopener">owasp.slack.com</a>
+
+## Participation
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.  
+All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+
+Chapters are led by local leaders in accordance with the <a href="/www-policy/operational/chapters">Chapters Policy</a>.  
+We encourage you to participate in our <a href="/projects/">Projects</a>, <a href="/chapters/">Local Chapters</a>, <a href="/events/">Events</a>,
+<a href="https://groups.google.com/a/owasp.com/" target="_blank" rel="noopener">Online Groups</a>,
+and <a href="https://owasp.slack.com/" target="_blank" rel="noopener">Community Slack Channel</a>.
