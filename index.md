@@ -19,7 +19,7 @@ We started this because we believe in Security, believe that well designed softw
 
 Chapter Supporters
 ----------------
-The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
+The following are the list of OWASP Corporate Members who have generously aligned themselves with the Tirana chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
