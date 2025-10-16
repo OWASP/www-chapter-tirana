@@ -17,6 +17,8 @@ The chapter was founded by
 
 OWASP Tirana brings Albania a vendor-neutral, community-led hub for building safer software. We run meetups, trainings, and projects that upskill local engineers and students, share open standards like ASVS and SAMM, and connect startups, universities, and the public sector with a global security network. Our goal is practical: reduce real-world risk, support compliance with EU regulations, and help Albanian teams ship secure, trustworthy digital services.
 
+---------------------
+
 ## Chapter Supporters
 ----------------
 <p>The organizations below support our local activities (e.g., venues, community collaboration). OWASP remains vendor-neutral.</p>
@@ -43,6 +45,8 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
     </tr>
   </table>
 </div>
+
+---------------------
 
 ## Next Meeting/Event
 ---------------------
