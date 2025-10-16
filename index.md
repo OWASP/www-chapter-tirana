@@ -48,6 +48,17 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
 
 ---------------------
 
+## Participation
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.  
+All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+
+Chapters are led by local leaders in accordance with the <a href="/www-policy/operational/chapters">Chapters Policy</a>.  
+We encourage you to participate in our <a href="/projects/">Projects</a>, <a href="/chapters/">Local Chapters</a>, <a href="/events/">Events</a>,
+<a href="https://groups.google.com/a/owasp.com/" target="_blank" rel="noopener">Online Groups</a>,
+and <a href="https://owasp.slack.com/" target="_blank" rel="noopener">Community Slack Channel</a>.
+
+---------------------
+
 ## Next Meeting/Event
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
@@ -57,15 +68,6 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
     View all upcoming events on our Meetup page →
   </a>
 </p>
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.  
-All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
-
-Chapters are led by local leaders in accordance with the <a href="/www-policy/operational/chapters">Chapters Policy</a>.  
-We encourage you to participate in our <a href="/projects/">Projects</a>, <a href="/chapters/">Local Chapters</a>, <a href="/events/">Events</a>,
-<a href="https://groups.google.com/a/owasp.com/" target="_blank" rel="noopener">Online Groups</a>,
-and <a href="https://owasp.slack.com/" target="_blank" rel="noopener">Community Slack Channel</a>.
 
 ## Stay Connected
 - Meetup: <a href="https://www.meetup.com/owasp-tirane-chapter/events/" target="_blank" rel="noopener">Join upcoming events</a>  
