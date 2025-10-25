@@ -1,0 +1,23 @@
+leaders:
+  - name: Kreshnik Rexha
+    email: kreshnik.rexha@owasp.org
+  - name: Mario Kazazi
+    email: mario.kazazi@owasp.org
+location:
+  country: Albania
+  country_code: AL
+  region: Tirana
+  city: Tirana
+  latitude: 41.3281482
+  longitude: 19.8184435
+meetup_group: owasp-tirane-chapter
+name: OWASP Tirana
+repositories:
+  - name: www-chapter-tirana
+    url: https://github.com/OWASP/www-chapter-tirana
+    description: OWASP Foundation web repository
+tags:
+  - appsec-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-tirana
