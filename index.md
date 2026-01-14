@@ -42,12 +42,13 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
           <img src="assets/images/kinenton.png" alt="Kineton Albania" style="max-height:72px;display:block;background:transparent;">
         </a>
       </td>
-      <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
+    </tr>
+  </table>
+<table role="presentation" cellpadding="12" cellspacing="0" style="width:100%;background:#fff;border-collapse:separate;border-spacing:0;">
+   <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
         <a href="https://www.blackduck.com">
           <img src="assets/images/blackduck.png" alt="BlackDuck Inc" style="max-height:72px;display:block;background:transparent;">
         </a>
-      </td>
-    </tr>
   </table>
 </div>
 
