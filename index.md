@@ -44,7 +44,7 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
       </td>
       <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
         <a href="https://www.blackduck.com">
-          <img src="assets/images/blackduck.svg" alt="BlackDuck Inc" style="max-height:72px;display:block;background:transparent;">
+          <img src="assets/images/BlackDuckLogo.svg" alt="BlackDuck Inc" style="max-height:72px;display:block;background:transparent;">
         </a>
       </td>
     </tr>
