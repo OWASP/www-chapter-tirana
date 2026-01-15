@@ -28,7 +28,7 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
 <tr style="background:#fff;">
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
 <a href="https://www.squarevertex.ai">
-<img src="/assets/images/squarevertex.png" alt="SquareVertex" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
+<img src="assets/images/squarevertex.png" alt="SquareVertex" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
 </a>
 </td>
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
@@ -46,7 +46,7 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
 <tr style="background:#fff;">
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
 <a href="https://www.blackduck.com">
-<img src="/assets/images/blackduck.png" alt="Black Duck" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
+<img src="assets/images/blackduck.png" alt="Black Duck" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
 </a>
 </td>
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">&nbsp;</td>
