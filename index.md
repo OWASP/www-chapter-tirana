@@ -33,12 +33,12 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
 </td>
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
 <a href="https://startupalbania.org">
-<img src="/assets/images/SA.png" alt="StartUp Albania" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
+<img src="assets/images/SA.png" alt="StartUp Albania" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
 </a>
 </td>
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">
 <a href="https://www.kineton.al">
-<img src="/assets/images/kinenton.png" alt="Kineton Albania" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
+<img src="assets/images/kinenton.png" alt="Kineton Albania" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
 </a>
 </td>
 </tr>
