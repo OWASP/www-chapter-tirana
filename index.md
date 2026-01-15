@@ -49,11 +49,15 @@ OWASP Tirana brings Albania a vendor-neutral, community-led hub for building saf
 <img src="assets/images/blackduck.png" alt="Black Duck" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
 </a>
 </td>
-<td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">&nbsp;</td>
+<td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;"><a href="https://robotech.net">
+<img src="assets/images/robotech.png" alt="Robotech" style="max-height:72px;display:block;background:transparent;margin:0 auto;">
+</a></td>
+  
+
 <td style="background:#fff;border:none;vertical-align:middle;text-align:center;padding:12px 18px;">&nbsp;</td>
 </tr>
 </table>
-</div>
+</div>  
 
 ---
 
